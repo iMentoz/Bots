@@ -1,6 +1,6 @@
 const rules = (name, uptime, tanggal, jam, prefix) => {
 return `
-┏━━━━━❬ *REGULATION ${name}* ❭━━━━━━━⊱
+┏━━━━━❬ *REGULATION $CURSED* ❭━━━━━━━⊱
 ┃
 ┣⊱❥ \`\`\`AKTIF\`\`\`: ${kyun(uptime)}
 ┣⊱❥ \`\`\`JAM\`\`\`: *${jam} WIB*
@@ -13,7 +13,7 @@ return `
 ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-┏━━━━━━━━❬ *NOTE ${name}* ❭━━━━━━━━━⊱
+┏━━━━━━━━❬ *NOTE $CURSED* ❭━━━━━━━━━⊱
 ┃
 ┣⊱❥ *KASIH BOT JEDA BIAR GA ERROR!!!!*
 ┃
