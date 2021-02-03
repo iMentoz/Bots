@@ -141,7 +141,7 @@ async function starts() {
 			const content = JSON.stringify(mek.message)
 			const from = mek.key.remoteJid
 			const type = Object.keys(mek.message)[0]
-			const FarhanGans = ["628311800241@s.whatsapp.net"]
+			const iFrell4k = ["628311800241@s.whatsapp.net"]
 			const farhan = mek.message.conversation
 			const insom = from.endsWith('@g.us')
 			const nameReq = insom ? mek.participant : mek.key.remoteJid
@@ -175,7 +175,7 @@ async function starts() {
 					ownerG: '*ᴍᴀᴀꜰ ᴩᴇʀɪɴᴛᴀʜ ɪɴɪ ʜᴀɴyᴀ ʙɪꜱᴀ ᴅɪ ɢᴜɴᴀᴋᴀɴ ᴏʟᴇʜ ᴏᴡɴᴇʀ ɢʀᴏᴜᴩ!*',
 					ownerB: '*ᴍᴀᴀꜰ ᴩᴇʀɪɴᴛᴀʜ ɪɴɪ ʜᴀɴyᴀ ʙɪꜱᴀ ᴅɪ ɢᴜɴᴀᴋᴀɴ ᴏʟᴇʜ ᴏᴡɴᴇʀ ʙᴏᴛ!* ',
 					premium: '*ᴍᴀᴀꜰ ꜰɪᴛᴜʀ ɪɴɪ ᴋʜᴜꜱᴜꜱ ᴜꜱᴇʀ ᴩʀᴇᴍɪᴜᴍ!!*',
-					userB: `ʜᴀɪ *${pushname2}* ᴋᴀᴍᴜ ʙᴇʟᴜᴍ ᴍᴇɴᴊᴀᴅɪ ᴛᴇᴍᴀɴ *${name}* \nꜱɪʟᴀʜᴋᴀɴ ᴅᴀꜰᴛᴀʀ ᴅᴜʟᴜ yᴀᴀ ᴅᴇɴɢᴀɴ ᴄᴀʀᴀ\n\n ᴋᴇᴛɪᴋ ${prefix}ᴅᴀꜰᴛᴀʀ ${pushname2}/17/ʙᴀɴyᴜᴡᴀɴɢɪ`,
+					userB: `ʜᴀɪ *${pushname2}* ᴋᴀᴍᴜ ʙᴇʟᴜᴍ ᴍᴇɴᴊᴀᴅɪ ᴛᴇᴍᴀɴ *CURSED* \nꜱɪʟᴀʜᴋᴀɴ ᴅᴀꜰᴛᴀʀ ᴅᴜʟᴜ yᴀᴀ ᴅᴇɴɢᴀɴ ᴄᴀʀᴀ\n\n ᴋᴇᴛɪᴋ ${prefix}ᴅᴀꜰᴛᴀʀ ${pushname2}/17/ʙᴀɴyᴜᴡᴀɴɢɪ`,
 					admin: '*ᴍᴀᴀꜰ ᴩᴇʀɪɴᴛᴀʜ ɪɴɪ ʜᴀɴyᴀ ʙɪꜱᴀ ᴅɪ ɢᴜɴᴀᴋᴀɴ ᴏʟᴇʜ ᴀᴅᴍɪɴ ɢʀᴏᴜᴩ!*',
 					Badmin: '*ᴍᴀᴀꜰ ᴩᴇʀɪɴᴛᴀʜ ɪɴɪ ʜᴀɴyᴀ ʙɪꜱᴀ ᴅɪ ɢᴜɴᴀᴋᴀɴ ᴋᴇᴛɪᴋᴀ ʙᴏᴛ ᴍᴇɴᴊᴀᴅɪ ᴀᴅᴍɪɴ!*'
 				}
