@@ -21,7 +21,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt) => {
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 
-╭──────「 *ABOUT ${name}* 」
+╭──────「 *ABOUT $CURSED* 」
 ┴
 ➻ *${prefix}request [Mau Req Fitur Apa?]*
 ➻ *${prefix}report [lapor bug]*
